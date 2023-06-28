@@ -1,0 +1,12 @@
+- This is a code to send raw sensors data via Sigfox network to a dashboard available at following Tago.io platform:
+  https://610efe6f94a33700127f37f9.tago.run/dashboards/info/6290e3d3d2408f0013fc16f8?anonymousToken=00000000-610e-fe6f-94a3-3700127f37f9
+
+Harware used:
+- Arduino Nano
+- Edukit RedFox: https://curtocircuito.com.br/kit-livro-iot-sigfox-com-edukit-redfox.html
+- PIR sensor
+- Acc sensor MPU6050
+
+Notes: 
+1) Introduction here at You Tube Murat-Tech Channel: https://www.youtube.com/watch?v=eSdl9WC-ug8 
+2) the cpp code still has some open work to mitigate unexpected behavior while sending data, work in progress
