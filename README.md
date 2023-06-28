@@ -1,2 +1,2 @@
 # Cpp-Language
-Source code for IOT devices (Sigfox, LoRaWan) mainly using AVR microcontrollers 
+Source code for IOT devices (Sigfox, LoRaWan) using mainly AVR microcontrollers 
